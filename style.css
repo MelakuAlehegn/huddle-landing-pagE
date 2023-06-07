@@ -464,6 +464,9 @@ footer::before {
         height: 180px;
     }
 
+    .footer-left img {
+        filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(305deg) brightness(103%) contrast(101%);
+    }
 
     .footer-right,
     .footer-left {
