@@ -406,6 +406,7 @@ footer::before {
     .third img {
         padding-top: 0;
         width: 30%;
+        margin-inline: 50px;
     }
 
     .first p,
